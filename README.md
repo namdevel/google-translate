@@ -1,5 +1,5 @@
-# Google Translate API
- (Unofficial) Very simple Google translate API for Python.
+# (Unofficial) Google Translate API
+  Very simple Google translate API for Python.
  
 Install
 ---------
