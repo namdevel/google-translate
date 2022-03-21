@@ -11,9 +11,9 @@ setuptools.setup(
     description="(Unofficial) Googletrans: Free and Unlimited Google translate API for Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=" https://github.com/namdevel/google-translate",
+    url="https://github.com/namdevel/google-translate",
     project_urls={
-        "Bug Tracker": " https://github.com/namdevel/google-translate/issues",
+        "Bug Tracker": "https://github.com/namdevel/google-translate/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
